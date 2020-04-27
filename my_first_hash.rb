@@ -5,6 +5,8 @@ def my_hash
   print my_hash
 end
 
+my_hash
+
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
